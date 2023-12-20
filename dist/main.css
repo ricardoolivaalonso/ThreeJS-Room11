@@ -156,6 +156,7 @@ body{
         background-color: transparent; 
         padding: 30px;
         z-index: 1;
+        display: none;
     }
     .content__group { 
         position: relative; 
