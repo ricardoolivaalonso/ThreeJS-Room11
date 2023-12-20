@@ -163,4 +163,5 @@ body{
         margin-right: 0;
     }
     .content__description { max-width: 100%; }
+    .double { display: none; }
 }
